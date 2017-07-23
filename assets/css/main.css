@@ -50,7 +50,7 @@ a:hover {
   font-weight: 100;
   padding-bottom: 30px;
   position: relative;
-  color:;
+  color: white;
 }
 .navbar {
   margin-bottom: 0;
@@ -99,7 +99,7 @@ a:hover {
 }
 #hero-area {
   background: #34495e;
-  color: #fff;
+  color: black;
 }
 #hero-area .btn {
   margin-right: 20px;
@@ -108,6 +108,19 @@ a:hover {
   max-width: 100%;
 }
 #hero-area p {
+  padding: 50px 0;
+}
+#hero-area1 {
+  background: #34495e;
+  color: white;
+}
+#hero-area1 .btn {
+  margin-right: 20px;
+}
+#hero-area1 img {
+  max-width: 100%;
+}
+#hero-area1 p {
   padding: 50px 0;
 }
 #services h3 {
@@ -352,7 +365,7 @@ fieldset {
 }
 
 ::-webkit-input-placeholder {
-  color: #888;
+  color: black;
 }
 
 :-moz-placeholder {
